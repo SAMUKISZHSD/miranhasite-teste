@@ -1,0 +1,39 @@
+body{
+    background-image:linear-gradient(45deg, #2c3156, #1b1a33)
+    
+}
+
+header{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding-top: 25px;
+}
+
+h1{
+    color:white;
+    text-align: center;
+    border-radius: 50px;
+border: 1px solid rgb(255, 255, 255);
+padding: 2px;
+    
+}
+
+p{
+    color: white;
+    font-size: 150%;
+}
+
+li{
+    color: white;
+    font-size: 150%;
+}
+
+img{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    top:0%;
+
+}
